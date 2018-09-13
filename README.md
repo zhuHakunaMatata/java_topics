@@ -1,2 +1,2 @@
 # java_topics
-important java topics in depth
+important java topics in deep understanding
